@@ -1,0 +1,20 @@
+x1=float(input())
+x2=float(input())
+y1=float(input())
+y2=float(input())
+z=x1+y1
+print(z)
+poins=((x1,x2),(y1,y2))
+print(poins[0][0])
+xUzaklığı=(x1-x2)**2
+yUzaklığı=(y1-y2)**2
+distances=float((xUzaklığı+yUzaklığı)**(1/2))
+print(distances)
+def Euclidean(distances):
+    print(distances)
+
+
+
+
+   
+    
